@@ -1,6 +1,6 @@
-Test message
-New row
-Create new feature
+Test message;
+New row;
+Create new feature;
 Wow!
 
 Oh! My goodness!!!
